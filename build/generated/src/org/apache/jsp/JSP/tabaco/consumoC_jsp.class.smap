@@ -1,0 +1,16 @@
+SMAP
+consumoC_jsp.java
+JSP
+*S JSP
+*F
++ 0 consumoC.jsp
+JSP/tabaco/consumoC.jsp
+*L
+5,24:50
+30,23:76
+52:99
+53:100,3
+54,2:103
+56,2:105,3
+58,28:111
+*E
